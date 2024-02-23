@@ -14,6 +14,8 @@ Use WASD to move the paddle (more like A and D), and Space to launch the ball. D
  - Added particles to a hit element
  - Animated elements at the start of the levels.
  - Added Comet Trail to the ball.
+ - Added Fades in-between levels
+ - Added Glows to as much as I could.
 
 ## References
 "Rumble Explosion" by Michel Baradari

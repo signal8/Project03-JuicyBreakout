@@ -1,6 +1,6 @@
 # Project03-JuicyBreakout
 
-# Project Name
+# Br3@k-0uT (idk i'm bad at naming things)
 February 23, 2024. A Breakout clone with added "Juice". Done entirely in Visual Scripting to focus on game feel and polish.
 
 Use WASD to move the paddle (more like A and D), and Space to launch the ball. Don't let the ball into the pit, or you'll lose a life. Lose three lives and it's game over!
